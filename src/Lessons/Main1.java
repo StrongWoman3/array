@@ -1,3 +1,5 @@
+package Lessons;
+
 public class Main1 {
     public static void main(String[] args) {
         //Вывести на консоль 10 раз фразу hello world

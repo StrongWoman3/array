@@ -1,3 +1,7 @@
+package Lessons;
+
+import org.w3c.dom.ls.LSOutput;
+
 import java.util.Scanner;
 
 public class Main2 {
@@ -39,3 +43,23 @@ public class Main2 {
 
     }
 }
+
+
+     class rect {
+       int width;
+int height;
+        void rectangle( int width, int height){
+            this.width = width;
+            this.height = height;
+
+        }
+        int sum (){
+            return width*height;
+        }
+
+        System.out.print(sum);
+    }
+
+
+
+
